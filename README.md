@@ -25,3 +25,9 @@ Para executar este projeto, você precisa ter o Go instalado em seu sistema.
 1. Clone este repositório em sua máquina local.
 2. Abra o terminal e navegue até a pasta do projeto.
 3. Execute o seguinte comando para compilar o projeto: `go run main.go`
+
+--------
+
+## Screen
+
+![Imagem Terminal](https://github.com/jeffersonrucu/GOLANG-HELLO-WORLD/blob/master/screenshot.png?raw=true)
