@@ -1,0 +1,30 @@
+# Arquivos binários
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos objeto
+*.o
+*.obj
+
+# Arquivos de cache e temporários
+.idea/
+.vscode/
+*.test
+*.prof
+*.out
+*.testout
+*.log
+*.mod
+*.sum
+
+# Dependências
+/vendor/
+/go.sum
+/go.mod
+
+# Arquivos de build
+/build/
+*.a
+*.test
